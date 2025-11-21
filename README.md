@@ -10,3 +10,4 @@ NOTE: to get the touch working from the supplied sketch I have changed file pins
 
 
 ![Uploading PXL_20251121_175642478.jpg…]()
+![Uploading PXL_20251121_175642478.jpg…]()
