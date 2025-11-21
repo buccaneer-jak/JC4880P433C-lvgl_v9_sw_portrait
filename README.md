@@ -9,6 +9,4 @@ NOTE: to get the touch working from the supplied sketch I have changed file pins
 #define TP_INT 21 // previously -1
 
 
-![Uploading PXL_20251121_175642478.jpg…]()
-![Uploading PXL_20251121_175642478.jpg…]()
-![screenshot](images/PXL_20251121_175642478.jpg)
+
