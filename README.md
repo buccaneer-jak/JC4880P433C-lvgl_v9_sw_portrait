@@ -8,5 +8,7 @@ NOTE: to get the touch working from the supplied sketch I have changed file pins
 
 #define TP_INT 21 // previously -1
 
+(GitHub needs to fix how to upload subfolders and images plus sizing of images.)
+
 ![screenshot](images/PXL_20251121_175642478.jpg)
 
