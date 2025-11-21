@@ -12,7 +12,7 @@ NOTE: to get the touch working from the supplied sketch I have changed file pins
 
 ![screenshot](images/PXL_20251121_175642478.jpg)
 
-.. image:: [(https://github.com/buccaneer-jak/JC4880P433C-lvgl_v9_sw_portrait/blob/main/images/PXL_20251121_175642478.jpg)
+.. image:: https://github.com/buccaneer-jak/JC4880P433C-lvgl_v9_sw_portrait/blob/main/images/PXL_20251121_175642478.jpg
    :height: 100px
    :width: 200 px
    :scale: 50 %
