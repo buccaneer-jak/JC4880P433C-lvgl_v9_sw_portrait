@@ -1,8 +1,12 @@
-#此样例使用的屏幕是微雪的10.1寸屏幕，具体型号位：10.1-DSI-TOUCH-A
-# 请使用arduino_esp32_v3.2.1版本
+This example utilises a Guition 4.3-inch screen, model number: JC4880P433C Please use the Arduino ESP32 version 3.2.1. Arduino IDE 2.3.4
 
-#lvgl v9.2.2 
+#lvgl v9.4.0
+
+Move the demos folder from within the lvgl folder to the src folder in the same directory.
+
+NOTE: to get the touch working from the supplied sketch I have changed file pins_config.h
+
+#define TP_INT 21 // previously -1
 
 
-# 要将lvgl文件夹中的demos文件夹移动到同目录下的src文件夹中
-
+![Uploading PXL_20251121_175642478.jpg…]()
